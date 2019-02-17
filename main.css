@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background: blue;
+    color: white;
+    padding: 30px;
+}
+
+main {
+    background: rgb(210, 247, 245);
+    padding: 50px;
+}
+
+footer {
+    background: black;
+    color: rgb(245, 210, 210);
+    padding: 20px;
+}
+
+footer a {
+    color: red;
+}
+
+
