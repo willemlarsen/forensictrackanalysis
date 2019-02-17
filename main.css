@@ -35,6 +35,11 @@ main {
     padding: 50px;
 }
 
+figure {
+    padding: 0px;
+    margin: 0px;
+}
+
 footer {
     background: black;
     color: rgb(245, 210, 210);
