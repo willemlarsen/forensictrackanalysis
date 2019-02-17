@@ -1,11 +1,27 @@
 body {
     font-family: sans-serif;
+    text-align: center;
 }
 
 header {
-    background: blue;
+    background: darkblue;
     color: white;
-    padding: 30px;
+}
+
+header h1 {
+    padding: 30px 0px 30px 30px;
+}
+
+header h2 {
+    padding: 30px 0px 30px 30px;
+}
+
+nav {
+    background-color: black;
+    padding: 30px 0px 30px 0px;
+}
+nav li {
+    padding: 20px 20px 20px 20px;
 }
 
 main {
@@ -25,7 +41,7 @@ footer a {
 
 img {
     background: darkblue;
-    padding: 20px;
+    padding: 50px 50px 50px 50px;
 }
 
 ul {
