@@ -23,4 +23,18 @@ footer a {
     color: red;
 }
 
+img {
+    background: darkblue;
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    display: inline;
+}
+
+li {
+    display: inline;
+}
+
 
